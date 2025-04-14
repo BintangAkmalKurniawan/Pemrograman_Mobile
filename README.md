@@ -27,6 +27,7 @@ File ini mendefinisikan tampilan antarmuka pengguna, terdiri dari:
         Menampilkan toast (btnToast)
 
 Semua komponen ini ditempatkan dalam LinearLayout dengan orientasi vertikal dan padding agar tampil rapi.
+
 2. MainActivity.kt (Logika Aplikasi)
 
 File ini berisi logika yang mengatur interaksi pengguna:
